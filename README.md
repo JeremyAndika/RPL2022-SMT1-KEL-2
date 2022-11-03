@@ -1,4 +1,4 @@
-# RPL2022-SMT1-KEL2
+# RPL2022-SMT1-KEL-2
 Kelompok 2 dari mata kuliah Rekaya Perangkat Lunak
 - Nama Anggota Kelompok:
 - Andika Zahrah Ramadhanti - 2022029
