@@ -9,3 +9,5 @@ Fajri Rahmat Ilahi - 2022013
 Jeremy Andika - 2022002
 Ricky Arianto - 2022010
 Ricky Herlangga - 2022018
+
+Video Presentasi : https://www.youtube.com/watch?v=l1E8h6KwnKc&feature=youtu.be
