@@ -10,4 +10,4 @@ Kelompok 2 dari mata kuliah Rekayasa Perangkat Lunak
 - Ricky Arianto - 2022010
 - Ricky Herlangga - 2022018
 
-- Video Presentasi : https://www.youtube.com/watch?v=l1E8h6KwnKc&feature=youtu.be
+- Video Presentasi UTS : https://www.youtube.com/watch?v=l1E8h6KwnKc&feature=youtu.be
