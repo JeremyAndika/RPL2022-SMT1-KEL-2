@@ -23,7 +23,7 @@ Website ini dibuat menggunakan
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![PHP][php]][php]
-* [![mysql][mysql]][msql]
+* [![mysql][mysql]][mysql]
 
 [Codeigniter]: https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
