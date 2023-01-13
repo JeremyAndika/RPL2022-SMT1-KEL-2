@@ -19,7 +19,7 @@ Kelompok 2 dari mata kuliah Rekayasa Perangkat Lunak
 
 Website ini dibuat menggunakan
 
-* [![Codeigniter][Codeigniter]][Next-url]
+* [![Codeigniter][Codeigniter]][Codeigniter]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
