@@ -11,3 +11,5 @@ Kelompok 2 dari mata kuliah Rekayasa Perangkat Lunak
 - Ricky Herlangga - 2022018
 
 - Video Presentasi UTS : https://www.youtube.com/watch?v=l1E8h6KwnKc&feature=youtu.be
+- Video Presentasi UAS : https://www.youtube.com/watch?v=4ygIbXwRQcc
+- Video Demo           : https://www.youtube.com/watch?v=kme8ShTFSrk
