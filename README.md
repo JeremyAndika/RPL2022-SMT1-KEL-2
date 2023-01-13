@@ -13,3 +13,18 @@ Kelompok 2 dari mata kuliah Rekayasa Perangkat Lunak
 - Video Presentasi UTS : https://www.youtube.com/watch?v=l1E8h6KwnKc&feature=youtu.be
 - Video Presentasi UAS : https://www.youtube.com/watch?v=4ygIbXwRQcc
 - Video Demo           : https://www.youtube.com/watch?v=kme8ShTFSrk
+
+
+### Built With
+
+Website ini dibuat menggunakan
+
+* [![Codeigniter][Codeigniter]][Next-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+[Codeigniter]: https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
