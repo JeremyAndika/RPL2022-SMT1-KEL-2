@@ -17,7 +17,7 @@ Kelompok 2 dari mata kuliah Rekayasa Perangkat Lunak
 
 ### Built With
 
-Website ini dibuat menggunakan
+Website perpustakaan ini dibuat menggunakan
 
 * [![Codeigniter][Codeigniter]][Codeigniter]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
