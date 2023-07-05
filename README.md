@@ -13,4 +13,4 @@ Chatbot ini dibuat menggunakan
 * [![watson][watson]][watson]
 
 
-[watson]: [https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/watson-assistant-blue)
+[watson]: https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/watson-assistant-blue
