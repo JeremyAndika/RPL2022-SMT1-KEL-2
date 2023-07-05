@@ -3,7 +3,7 @@ Capstone Project Arvy Kurnia Ramadhan in Infinite Learning
 
 Flow
 
-![Alt text] https://github.com/ArvyKR/arvykr.github.io/blob/main/Data/flow.png
+![Alt text] (https://github.com/ArvyKR/arvykr.github.io/blob/main/Data/flow.png)
 
 
 ### Built With
