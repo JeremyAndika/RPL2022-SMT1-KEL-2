@@ -10,7 +10,7 @@ Flow
 
 Chatbot ini dibuat menggunakan
 
-* [![Codeigniter][Codeigniter]][Codeigniter]
+* [![watson][watson]][watson]
 
 
-[Codeigniter]: [https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/watson-assistant-blue)
+[watson]: [https://img.shields.io/badge/codeigniter-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/watson-assistant-blue)
